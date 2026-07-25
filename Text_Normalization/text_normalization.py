@@ -21,10 +21,10 @@ class Textnormalization:
     def str_lowercase(self,data):
         # should return updated text
         self.data=self.data.lower()
-        print(1.--------)
+        print("1.--------")
         self.string_lowercase()
         opti_puntuation(input("enter yes or no"))
-        if op_puntu=="yes"
+        if opti_puntuation=="yes"
     def remove_puntuation(self,data):
         chars=self.data
         import string
